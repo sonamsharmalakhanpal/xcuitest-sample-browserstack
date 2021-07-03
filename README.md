@@ -1,1 +1,0 @@
-# xcuitest-sample-browserstack

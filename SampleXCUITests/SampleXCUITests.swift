@@ -50,7 +50,7 @@ class SampleXCUITests: XCTestCase {
         
         //visit the text page
         app.buttons["Text2"].tap()
-        let enterText = "Hi Sonam!! you successfully added accessibilty id in main storyboard"
+        let enterText = "Hi Sonam!! you successfully added accessibilty id in main storyboard and git hub integration"
         
         //verify that the text field has come up
         XCTAssert(app.textFields["Enter a text"].exists)
